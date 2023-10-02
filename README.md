@@ -24,4 +24,4 @@ You may also see any lint errors in the console.
   ### POST `https://helpmeout-0eal.onrender.com/video`
 
 ## get videos
-### GET POST `https://helpmeout-0eal.onrender.com/video/file`
+### GET `https://helpmeout-0eal.onrender.com/video/file`
